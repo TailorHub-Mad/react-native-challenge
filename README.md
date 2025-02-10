@@ -1,6 +1,4 @@
-# react-native-challenge
-
-# Challenge: Restaurants app
+# Restaurants app
 
 ## **Objective**
 
@@ -8,10 +6,16 @@ Develop a **Restaurant application** using React Native that allows users to vie
 
 To save time; the app should interact with a simple backend API that we provide to you to manage restaurant data:
 
-API Endpoint:
+API Base Endpoint:
 https://technical-review-api-tailor.netlify.app/
 
+Repository (reference):
 https://github.com/TailorHub-Mad/technical_review_api
+
+## Design
+
+Use this Figma link to get the design of the app:
+https://www.figma.com/design/LuwjRZZb3ms0MeAmu7gZch/Tailor-Prueba-t%C3%A9cnica-Junior?node-id=1235-1831&t=QBe1sh3ejkqnEot3-1
 
 ## **Requirements**
 
@@ -31,34 +35,31 @@ https://github.com/TailorHub-Mad/technical_review_api
 5. **Favorites Feature**
     - Enable users to add or remove restaurants from their favorites list.
     - Provide a separate view to display the user's favorite restaurants.
-6. **Loading States**
+6. **Loading State**
     - Display a loading indicator while fetching data from the API.
 7. **Error Handling**
     - Show appropriate error messages for network issues or failed API requests.
 8. **Design**
     - Ensure the app is responsive, visually appealing and user-friendly for both iOS and Android users.
 9. **Navigation**
-
-Use react-navigation for navigation between tabs and screens.
-
-- Use a Drawer with different tabs
-- Use two different navigation stacks:
+    - Use react-navigation for navigation between tabs and screens.
+    - Use a Drawer with different tabs
+    - Use two different navigation stacks:
     - Auth (Login / Register)
     - Rest of screens
-        - Map with restaurant list (remove map?)
-        - Restaurant detail
+        - Map & Restaurant list
+        - Restaurant detail page
         - Create restaurant
-        - Favorites..
 
 # Bonus Points
 
-- **Deployments / Distribution**
-    - If you have time
 - **Testing**
     - Write realistic unit tests for the frontend components.
     - Write end-to-end tests with Detox
 - **Improvements**
     - You can leave a suggestion of improvements you would implement to this app if it was an ongoing project with more development time allowed
+- **Deployments / Distribution**
+    - If you've deployed and built the app, specifically for Android since iOS will require a paid Apple Developer account, provide the links in the `README.md`.
 
 # **Submission Guidelines**
 
