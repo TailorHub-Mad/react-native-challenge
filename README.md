@@ -20,7 +20,6 @@ Build a restaurants application in React Native that enables:
 ## Design (Figma)
 
 You must implement the design from Figma:
-- Tailor - Junior Technical Challenge (Figma)
   - https://www.figma.com/design/LuwjRZZb3ms0MeAmu7gZch/Tailor-Prueba-t%C3%A9cnica-Junior?node-id=1235-1831&t=QBe1sh3ejkqnEot3-1
 
 You may adjust micro-details if needed due to platform limitations, but prioritize visual consistency and good UX.
