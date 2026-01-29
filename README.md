@@ -32,10 +32,10 @@ You may adjust micro-details if needed due to platform limitations, but prioriti
 A dedicated API is provided for this challenge. Use the contract defined in the documentation (endpoints, models, params, and responses).
 
 - Base URL (API):
-  - https://react-native-challenge-api.tailor-hub.com/api
+  - https://sfjrvtapdh.eu-west-3.awsapprunner.com/api
 - Documentation (Swagger):
-  - https://react-native-challenge-api.tailor-hub.com/api/docs
-  - https://react-native-challenge-api.tailor-hub.com/api/docs.json
+  - https://sfjrvtapdh.eu-west-3.awsapprunner.com/api/docs
+  - https://sfjrvtapdh.eu-west-3.awsapprunner.com/api/docs.json
 
 ### Main endpoints
 
